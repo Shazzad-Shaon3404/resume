@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Md. Shazzad Hossain Shaon — CV (Exact Copy)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root{--ink:#0b1220;--muted:#475569;--rule:#e5e7eb;--navy:#1e3a8a}
+    html,body{margin:0;padding:0;background:#fff;color:var(--ink);font:15px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
+    .page{max-width:900px;margin:24px auto;padding:28px}
+    h1{font-size:28px;margin:0 0 6px;color:var(--navy)}
+    .sub{color:var(--muted);margin:0 0 12px}
+    hr{border:0;border-top:1px solid var(--rule);margin:18px 0}
+    h2{font-size:16px;text-transform:uppercase;letter-spacing:.08em;color:var(--navy);margin:18px 0 10px}
+    h3{font-size:16px;margin:0 0 4px}
+    .meta{color:var(--muted);font-size:13px;margin:0 0 6px}
+    .section{break-inside:avoid;margin-bottom:14px}
+    ul{margin:6px 0 0 0;padding:0}
+    ul li{list-style:disc;margin:6px 0 0 20px}
+    .contacts{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+    .contacts a{color:#2563eb;text-decoration:none}
+    .contacts a:hover{text-decoration:underline}
+    .twocol{display:grid;grid-template-columns:1.2fr .8fr;gap:20px}
+    .small{font-size:13px;color:var(--muted)}
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>Md. Shazzad Hossain Shaon</h1>
+      <div class="small">Current Address: 2678 Patrick Henry St., Auburn Hills, 48326, Michigan State, USA.</div>
+      <div class="small">Permanent Address: Kamarpara, House: 04, Road: 04, Block: D, Dhaka, 1230, Bangladesh.</div>
+      <div class="contacts" style="margin-top:8px">
+        <a href="mailto:shaon@oakland.edu">shaon@oakland.edu</a>
+        <span>·</span>
+        <span>+880 1876251769</span>
+        <span>·</span>
+        <span>+1 (248) 394-6730</span>
+        <span>·</span>
+        <a href="https://bd.linkedin.com/in/md-shazzad-hossain-shaon-a886391ba" target="_blank" rel="noopener">LinkedIn</a>
+        <span>·</span>
+        <a href="https://github.com/Shazzad-Shaon3404" target="_blank" rel="noopener">GitHub</a>
+        <span>·</span>
+        <a href="https://scholar.google.com/citations?hl=en&user=K7BOA2EAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <span>·</span>
+        <a href="https://www.researchgate.net/profile/Md-Shazzad-Hossain-Shaon" target="_blank" rel="noopener">ResearchGate</a>
+        <span>·</span>
+        <a href="https://orcid.org/my-orcid?orcid=0009-0008-2491-1622" target="_blank" rel="noopener">ORCID</a>
+        <span>·</span>
+        <a href="https://shazzad-shaon3404.github.io/mdshazzadhshaon.github.io/" target="_blank" rel="noopener">Website</a>
+      </div>
+    </header>
+
+    <hr/>
+
+    <section class="section">
+      <h2>WORK EXPERIENCE</h2>
+      <div>
+        <h3>Graduate Research Assistant (GRA) — Security and AI Research Lab (S-AIR Lab)</h3>
+        <p class="meta">Oakland University · Jan 2025 - Present</p>
+        <ul>
+          <li>Conducted experiments on large language models (LLMs) for code vulnerability detection and explainability.</li>
+          <li>Implemented neuro-symbolic transformation pipeline combining AST/PDG features with reasoning-based models.</li>
+          <li>Contributed to research paper writing, visualization (charts, figures), and conference submissions.</li>
+          <li>Worked on dataset curation and preprocessing of Java and C/C++ code for vulnerability analysis</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Graduate Teaching Assistant (GTA) — Software Security (CSI-4700/5700, semester: Fall 2025)</h3>
+        <p class="meta">Oakland University, Dept. of CSE · Sept 2025 - Present</p>
+        <ul>
+          <li>Assisted in lab instruction, grading, and student guidance on SEED Labs & code security tools.</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Research Assistant (RA) — Health Informatics Research Lab (HIRL)</h3>
+        <p class="meta">Daffodil International University · Jan 2022 - Feb 2024</p>
+        <ul>
+          <li>Mentored two undergraduate students on research-based projects.</li>
+          <li>Conducted ML and DL experiments using SHAP features for peptide identification in bioengineering</li>
+          <li>Developed and published AMP-RNNpro and ANNprob-ACPs neural network models in Computers in Biology and Medicine and Scientific Reports.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>EDUCATION</h2>
+      <div>
+        <h3>PhD in Computer Science & Engineering</h3>
+        <p class="meta">Oakland University · Jan 2025 - Dec 2029 (Expected)</p>
+        <ul>
+          <li>Cgpa :  4.00 / 4.00 (after 1st Semester; 2nd Semester ongoing)</li>
+          <li>Thesis on AI security</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Bachelor of Science in Computer Science & Engineering</h3>
+        <p class="meta">Daffodil International University · Jan 2020 - Feb 2024</p>
+        <ul>
+          <li>Cgpa : 3.75/4.00</li>
+          <li>Thesis on " AMP-RNNpro: A  two-stage approach for identification of antimicrobials using probabilistic features”.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>SKILLS</h2>
+      <ul>
+        <li><strong>Programming Language:</strong> Python, C/C++, R, Java (basic)</li>
+        <li><strong>Frameworks & Libraries:</strong> NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Keras, PyTorch, Plotly, Biopython, TensorFlow, Joern</li>
+        <li><strong>Data Analysis:</strong> Weka, Python, GitHub, Colab, Jupyter Notebook, iLearnPlus, LIME, SHAP</li>
+        <li><strong>Research Tools:</strong> LaTeX, EndNote, Mendeley, MS Office, Canva, Lucidchart, Draw.io, Visme (for figures & diagrams), QuillBot, Grammarly (for writing refinement)</li>
+        <li><strong>Research Skills:</strong> LLM, ML, DL, NLP, AST/PDG-based context modeling, fine-tuning with LoRA & PEFT, CoT reasoning, neuro-symbolic learning, graph embedding, feature engineering & explainability (SHAP, LASSO, PCA), static analysis tools (Semgrep, Cppcheck, Bandit for vulnerability analysis)</li>
+        <li><strong>Web Server:</strong> ANVIL, AWS, localhost, HTML, CSS, Docker</li>
+        <li><strong>Language:</strong> English (Professional proficiency), Bangla (Native), Hindi (Speaking)</li>
+        <li><strong>Soft Skills:</strong> Research writing, mentorship, teamwork, project organization, presentation</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>PUBLICATIONS — Published Papers</h2>
+      <ul>
+        <li>Akter, M.S., Sultan, M.F., Karim, T. and Shaon, M.S.H., 2025. ReVGG-R2Net: Optimized Recurrent Framework for Microscopic Blood Cell Segmentation. <em>Tissue and Cell</em>, p.103189.</li>
+        <li>Sultan, M.F., Karim, T., Shaon, M.S.H., Ali, M.M., Ibrahim, S.M., Akter, M.S., Ahmed, K., Bui, F.M. and Moni, M.A., 2025. BitterEN: A novel ensemble model for the identification of bitter peptide. <em>Computers in Biology and Medicine</em>, 195, p.110528.</li>
+        <li>Karim, T., Shaon, M.S.H., Ali, M.M., Ibrahim, S.M., Akter, M.S., Ahmed, K., Bui, F.M., Chen, L. and Moni, M.A., 2025. K-SNOpred: Identification of protein S-nitrosylation sites through word embedding features and machine learning. <em>Analytical Biochemistry</em>, p.115952.</li>
+        <li>Sultan, M.F., Karim, T., Shaon, M.S.H., Azim, S.M., Dehzangi, I., Akter, M.S., Ibrahim, S.M., Ali, M.M., Ahmed, K. and Bui, F.M., 2025. DHUpredET: A comparative computational approach for identification of dihydrouridine modification sites in RNA sequence. <em>Analytical Biochemistry</em>, 702, p.115828.</li>
+        <li>Karim, T., Shaon, M.S.H., Sultan, M.F., Cuzzocrea, A. and Akter, M.S., 2025. NULLDect: A Dynamic Adaptive Learning Framework for Robust NULL Pointer Dereference Detection.</li>
+        <li>Shaon, M.S.H., Sultan, F., Karim, T. and Akter, S., 2025. Anti-BioEn: An advanced framework for accurate bioactive agent classification based on hybrid models and graph feature encoding method. In <em>BIO Web of Conferences</em> (Vol. 163, p. 01007). EDP Sciences.</li>
+        <li>Kaanan, E., Karim, T., Shaon, M.S.H., Sultan, M.F., Cuzzocrea, A. and Akter, M.S., 2024, December. LLM-Based Approach for Buffer Overflow Detection in Source Code. In <em>2024 27th International Conference on Computer and Information Technology (ICCIT)</em> (pp. 1898-1902). IEEE.</li>
+        <li>Shaon, M.S.H., Sultan, M.F., Karim, T., Alshan, M.S.H., Cuzzocrea, A. and Akter, M.S., 2024, December. NeuroBooster: A Robust Classifier for the Discovery of Neuropeptide Sequences based on Meta-learning Approach. In <em>2024 IEEE International Conference on Big Data (BigData)</em> (pp. 6132-6141). IEEE.</li>
+        <li>Shaon, M.S.H., Sultan, M.F., Karim, T., Cuzzocrea, A. and Akter, M.S., 2024, December. An Advanced Liver Disease Detection Tool with a Stacking-Ensemble-based Machine Learning Approach. In <em>2024 IEEE International Conference on Big Data (BigData)</em> (pp. 6123-6131). IEEE.</li>
+        <li>Ridoy, S.Z., Shaon, M.S.H., Cuzzocrea, A. and Akter, M.S., 2024, December. EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code. In <em>2024 IEEE International Conference on Big Data (BigData)</em> (pp. 6356-6364). IEEE.</li>
+        <li>Shaon, M.S.H., Karim, T., Shakil, M.S. and Hasan, M.Z., 2024. A Comparative Study of Machine Learning Models with LASSO and SHAP Feature Selection for Breast Cancer Prediction. <em>Healthcare Analytics</em>, p.100353.</li>
+        <li>Shaon, M.S.H., Karim, T., Ali, M.M., Hasan, M.Z., Ahmed, K., Bui, F.M., Chen, L., and Moni, M.A., 2024.A Robust Deep Learning Approach for Identification of RNA 5-methyluridine Sites, <em>Scientific Reports</em>.</li>
+        <li>Sultan, M.F., Shaon, M.S.H., Karim, T., Ali, M.M., Hasan, M.Z., Ahmed, K., Bui, F.M., Chen, L., Dhasarathan, V. and Moni, M.A., 2024. MLAFP-XN: Leveraging Neural Network Model for Development of Antifungal Peptide Identification Tool. <em>Heliyon</em>.</li>
+        <li>Karim, T., Shaon, M.S.H., Ali, M.M., Ahmed, K., Bui, F.M. and Chen, L., 2024. StackAMP: Stacking-Based Ensemble Classifier for Antimicrobial Peptide Identification. <em>IEEE Transactions on Artificial Intelligence</em>, 1(01), pp.1-10.</li>
+        <li>Shaon, M.S.H., Karim, T., Sultan, M.F., Ali, M.M., Ahmed, K., Hasan, M.Z., Moustafa, A., Bui, F.M. and Al-Zahrani, F.A., 2024. AMP-RNNpro: a two-stage approach for identification of antimicrobials using probabilistic features. <em>Scientific Reports</em>, 14(1), p.12892.</li>
+        <li>Karim, T., Shaon, M.S.H., Sultan, M.F., Hasan, M.Z. and Kafy, A.A., 2024. ANNprob-ACPs: A novel anticancer peptide identifier based on probabilistic feature fusion approach. <em>Computers in Biology and Medicine</em>, 169, p.107915.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>PUBLICATIONS — Submitted Papers</h2>
+      <ul>
+        <li>Shaon, M. S. H., Akter, M. S., Cuzzocrea, A. ResVul-LLM: A Neurosymbolic Framework Combining Large Language Models and Symbolic Reasoning for C/C++ Vulnerability Analysis. (pp. 12),  IEEE International Conference on Big Data (BigData) 2025.</li>
+        <li>Shaon, M. S. H., Akter, M. S., Modern Approaches to Software Vulnerability Detection: A Survey of Machine Learning, Deep Learning, and Large Language Models, Electronics Journal,MDPI.</li>
+        <li>Sultan, M. F.,Karim, T, Shaon, M. S. H., Akter, M. S., Wardat. M., Cuzzocrea, CodeGraphNet: Embedding-Driven Enhanced Vulnerability Detection with Line-Level Error Identification, SoftwareQuality Journal, Springer.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>ACADEMIC PROJECTS</h2>
+      <div>
+        <h3>Dr. is Here</h3>
+        <p class="meta">Dec 2020, 2nd semester</p>
+        <ul>
+          <li>We have created a project called "Dr. is Here" using C and Data structure, offering various features such as online doctor consultations, ambulance services, and medication delivery.</li>
+          <li>As a project leader and developer, actively participate and make meaningful contributions to the project's goals and tasks.</li>
+          <li>We have created a website dedicated to our project where we included the code and promo videos as well. webserver: <a href="https://sites.google.com/diu.edu.bd/dr-is-here/home" target="_blank" rel="noopener">https://sites.google.com/diu.edu.bd/dr-is-here/home</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Fix Finder</h3>
+        <p class="meta">Aug 2023, 10th semester</p>
+        <ul>
+          <li>Developed a website for home services using HTML, CSS, PHP, and JavaScript.</li>
+          <li>This project has been exclusively deployed on a local server using XAMPP.</li>
+        </ul>
+      </div>
+      <div>
+        <h3>AMP-RNNpro</h3>
+        <p class="meta">Dec 2023, 11th semester</p>
+        <ul>
+          <li>Developed a model based on Recurrent Neural Network (RNN) model with probabilistic features approach. ( Undergrade Thesis)</li>
+          <li>This project aims to identify antimicrobial peptides from protein sequences to facilitate drug discovery in the future.</li>
+          <li>A webserver has been developed  based on AWS, Docker: <a href="http://13.126.159.30/" target="_blank" rel="noopener">http://13.126.159.30/</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>CERTIFICATES</h2>
+      <ul>
+        <li>Center for Excellence in Teaching and Leanring, USA — Oakland University — 2025</li>
+        <li>Participation in AI Celebration Project Showcase, Bangladesh — Daffodil International University — 2024</li>
+        <li>Participation in 3rd ELC Economical Project Contest, Indonesia — Universitas Islam Sultan Agung. — 2022</li>
+        <li>Participation in the KMITL virtual workshop program for Near-infrared Spectroscopy Innovation (NIRS), Bangladesh — Daffodil Ineternational University — 2022</li>
+        <li>Completed Microsoft Azure Fundamentals courses, Bangladesh — ICT Division — 2022</li>
+        <li>Completed Python project courses, India — Great Learning Course — 2022</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Reviewer Experiences</h2>
+      <ul>
+        <li>Journal name: SN Computers, Springer Link, Reviwer position: 2nd, Manuscript ID: SNCS-D-24-01671,  Article Type: Original Research, topic on Decentralizing Innovation: Crowdfunding System, Review date: 30 Jul 2024.</li>
+        <li>Journal name: SN Computers, Springer Link, Reviwer position: 3rd, Manuscript ID: SNCS-D-24-06722R1, Article Type: Original Research, topic on LearnAlytics: The Smart Way to Analyze, Adapt, and Achieve in E-Learning, Review date: 15 Sept.  2024.</li>
+        <li>Journal name: Expert Systems With Applications, Elsevier, Manuscript ID: ESWA-D-24-12099, Article Type: Full length article, topic on Perceptive Habitats: AI, Edge, and Health Preparedness, Review date: 05 Sept. 2024.</li>
+        <li>Journal name: Cognitive Computation,Springer Nature, Article Type: Full length article, topic on Advanced Machine Learning Framework for Enhancing Breast Cancer Diagnostics Through Transcriptomic Profiling, Review date: 29 Dec. 2024.</li>
+        <li>Journal name: Discover Oncology,Springer Nature, Article Type: Full length article, topic on A Cognitive Approach to Breast Cancer Recurrence Prediction: Multifactor Analysis with Machine Learning Techniques, Review date: 14 Dec. 2024.</li>
+        <li>Journal name: Cluster Computing,Springer Nature, Article Type: Full length article, topic on Armadillo Optimization for Feature Selection in Cancer Datasets: A SVM- Based Classification Method, Review date: 03 Dec. 2024.</li>
+        <li>Journal name: Electronics, MDPI, Article Type: Full length article, A Lightweight and Efficient Post Quantum Key Encapsulation Mechanism Based on Q-Problem, Review date: 15 Jan. 2025.</li>
+        <li>Journal name: Discover Computing, Springer Nature, Article Type: Full length article, Graph neural networks (gnn) for modeling stem cell donor-recipient compatibility for early leukemia detection and classification,  Review date: 28 Jan. 2025.</li>
+        <li>Conference name: IEEE BigData 2025, Article Type: Short length article, Web-based system with RFID, OCR, and digital payment technology for automated management and electronic toll collection in Metropolitan Lima, Review date: 22 Oct. 2025.</li>
+        <li>Conference name: IEEE BigData 2025, Article Type: Short length article,When Summaries Lie: Adversarial Attacks on Abstractive Summarization Models, Review date: 22 Oct. 2025.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>SERVICES</h2>
+      <p class="meta">—</p>
+    </section>
+
+    <section class="section">
+      <h2>REFERENCES</h2>
+      <p class="meta"><strong>Lanyu (Lori) Xu</strong> — Professor — Dept. of CSE — Oakland University — Email: <a href="mailto:lxu@oakland.edu">lxu@oakland.edu</a></p>
+      <p class="meta"><strong>Dr. Mst Shapna Akter</strong> — Assistant Professor — Dept. of CSE — Oakland University — Email: <a href="mailto:akter@oakland.edu">akter@oakland.edu</a></p>
+    </section>
+
+    <hr/>
+    <p class="meta">Export: Print → Save as PDF. This copy preserves the exact wording, order, and links from your uploaded CV.</p>
+  </main>
+</body>
+</html>
